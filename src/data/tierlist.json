@@ -1,0 +1,466 @@
+{
+    "tiers": {
+        "Tier 1": {
+            "description": "Highest quality sources with a proven track record of accuracy.",
+            "sources": [
+                {
+                    "name": "Simon Stone",
+                    "label": "BBC"
+                },
+                {
+                    "name": "Simon Peach",
+                    "label": "Press Association"
+                },
+                {
+                    "name": "Craig Norwood",
+                    "label": "Club Photographer"
+                },
+                {
+                    "name": "James Ducker",
+                    "label": "The Telegraph/Numbers may be suspect"
+                },
+                {
+                    "name": "Gaston Edul",
+                    "label": "T1 Argentina"
+                },
+                {
+                    "name": "Henry Winter",
+                    "label": "The Times Chief of Football"
+                },
+                {
+                    "name": "Mohamed Bouhafsi",
+                    "label": "France"
+                },
+                {
+                    "name": "Paul Joyce",
+                    "label": "The Times/Liverpool/Everton"
+                },
+                {
+                    "name": "Kristof Terreur",
+                    "label": "The Guardian"
+                },
+                {
+                    "name": "David Ornstein",
+                    "label": "The Athletic"
+                },
+                {
+                    "name": "Arancha Rodriguez",
+                    "label": "Real Madrid/Spain"
+                },
+                {
+                    "name": "Sam Lee",
+                    "label": "The Athletic"
+                },
+                {
+                    "name": "Romeo Agresti",
+                    "label": "Juventus news"
+                },
+                {
+                    "name": "John Percy",
+                    "label": "The Telegraph/Midlands Clubs"
+                },
+                {
+                    "name": "Alan Nixon",
+                    "label": "for youth, and League clubs news"
+                },
+                {
+                    "name": "Laurie Whitwell",
+                    "label": "The Athletic"
+                },
+                {
+                    "name": "BBC",
+                    "label": "United Kingdom"
+                },
+                {
+                    "name": "The Athletic",
+                    "label": "United Kingdom"
+                },
+                {
+                    "name": "Stian André de Wahl",
+                    "label": "Norway"
+                },
+                {
+                    "name": "Yağız Sabuncuoğlu",
+                    "label": "Turkey"
+                }
+            ]
+        },
+        "Tier 2": {
+            "description": "Proven to have current and mostly reliable sources.",
+            "sources": [
+                {
+                    "name": "Der Westen",
+                    "label": "Germany/Schalke/Gladbach/Dortmund"
+                },
+                {
+                    "name": "Kicker",
+                    "label": "Germany"
+                },
+                {
+                    "name": "De Telegraaf",
+                    "label": "Netherlands"
+                },
+                {
+                    "name": "COPE",
+                    "label": "Spain"
+                },
+                {
+                    "name": "Kerry Hau",
+                    "label": "Bayern only"
+                },
+                {
+                    "name": "Fabrice Hawkins",
+                    "label": "RMC Sport"
+                },
+                {
+                    "name": "Raphael Honigstein",
+                    "label": "Germany Freelancer/Guardian German News"
+                },
+                {
+                    "name": "Voetbal International",
+                    "label": "Netherlands"
+                },
+                {
+                    "name": "Gianluca Di Marzio",
+                    "label": "Italians only, Tier 3 if not"
+                },
+                {
+                    "name": "Matt Law",
+                    "label": "Telegraph/Chelsea"
+                },
+                {
+                    "name": "Andy Burton",
+                    "label": "Sky Sports"
+                },
+                {
+                    "name": "Charlotte Duncker",
+                    "label": "The Times"
+                },
+                {
+                    "name": "Loic Tanzi",
+                    "label": "French news"
+                },
+                {
+                    "name": "Caderna SER",
+                    "label": "Spain"
+                },
+                {
+                    "name": "RMC Sport",
+                    "label": "France"
+                },
+                {
+                    "name": "Ruhr Nachrichten",
+                    "label": "Germany"
+                },
+                {
+                    "name": "Telefoot",
+                    "label": "France"
+                },
+                {
+                    "name": "Lee Ryder",
+                    "label": "The Chronicle/Newcastle"
+                },
+                {
+                    "name": "Sami Mokbel",
+                    "label": "Daily Mail"
+                },
+                {
+                    "name": "Rob Dawson",
+                    "label": "ESPN"
+                },
+                {
+                    "name": "Paul Hirst",
+                    "label": "The Times"
+                },
+                {
+                    "name": "Andy Mitten",
+                    "label": "Various"
+                },
+                {
+                    "name": "RTP",
+                    "label": "Portugal only, Tier 3 if not"
+                },
+                {
+                    "name": "Sport1",
+                    "label": "Germany"
+                },
+                {
+                    "name": "The Telegraph",
+                    "label": null
+                },
+                {
+                    "name": "Mike McGrath",
+                    "label": "The Telegraph"
+                },
+                {
+                    "name": "Adam Crafton",
+                    "label": "The Athletic"
+                },
+                {
+                    "name": "James Roades",
+                    "label": "Muppetiers"
+                },
+                {
+                    "name": "Zerozero.pt",
+                    "label": "Portugal"
+                },
+                {
+                    "name": "Nick Semeraro",
+                    "label": null
+                },
+                {
+                    "name": "Fabrizio Romano",
+                    "label": "Guardian/Independent, Spammy Tier 2.5"
+                }
+            ]
+        },
+        "Tier 3": {
+            "description": "Average reliability or formerly more trusted sources.",
+            "sources": [
+                {
+                    "name": "Canal+/Pierre Menes",
+                    "label": "France"
+                },
+                {
+                    "name": "Ian Ladyman",
+                    "label": "Daily Mail"
+                },
+                {
+                    "name": "The Guardian",
+                    "label": null
+                },
+                {
+                    "name": "The Times",
+                    "label": null
+                },
+                {
+                    "name": "Daniel Taylor",
+                    "label": "Guardian"
+                },
+                {
+                    "name": "Melissa Reddy",
+                    "label": "Sky Sports"
+                },
+                {
+                    "name": "Ian Whittell",
+                    "label": "Telegraph"
+                },
+                {
+                    "name": "Bild",
+                    "label": "Germany/Bavaria"
+                },
+                {
+                    "name": "Le Parisien",
+                    "label": "France"
+                },
+                {
+                    "name": "Ian Herbert",
+                    "label": "Independent"
+                },
+                {
+                    "name": "Marcel van Der Kraan",
+                    "label": "de Telegraaf"
+                },
+                {
+                    "name": "Jim White",
+                    "label": "Everton only"
+                },
+                {
+                    "name": "Stephen Howson",
+                    "label": "Tier 2 for youth news"
+                },
+                {
+                    "name": "O Jogo",
+                    "label": "Portugal"
+                },
+                {
+                    "name": "Adrian Kajumba",
+                    "label": "Daily Mail"
+                },
+                {
+                    "name": "Patrick Berger",
+                    "label": "Sport1 - except Tier 2 for German news"
+                },
+                {
+                    "name": "Dan Harris",
+                    "label": "The Guardian"
+                },
+                {
+                    "name": "Alfredo Pedullà",
+                    "label": "Italy"
+                },
+                {
+                    "name": "Florian Plettenberg",
+                    "label": "Bayern Only"
+                },
+                {
+                    "name": "Mike Keegan",
+                    "label": "Daily Mail"
+                },
+                {
+                    "name": "Nizaar Kinsella",
+                    "label": "Standard Sport"
+                },
+                {
+                    "name": "Chris Wheeler",
+                    "label": "Daily Mail"
+                },
+                {
+                    "name": "Julien Maynard",
+                    "label": "Telefoot, Tier 2 for France"
+                },
+                {
+                    "name": "James Savundra",
+                    "label": "TalkSPORT"
+                },
+                {
+                    "name": "Talksport sources",
+                    "label": "UK & Ireland"
+                },
+                {
+                    "name": "Relevo",
+                    "label": null
+                },
+                {
+                    "name": "Raisa Simplicio & Thiago Fernandes",
+                    "label": "Goal Brazil"
+                },
+                {
+                    "name": "Dan Sheldon",
+                    "label": "The Athletic"
+                },
+                {
+                    "name": "Dharmesh Sheth",
+                    "label": "Sky Sports"
+                },
+                {
+                    "name": "Jose Felix Diaz",
+                    "label": "Real Madrid news"
+                },
+                {
+                    "name": "James Robson",
+                    "label": "Evening Standard"
+                },
+                {
+                    "name": "Rich Fay",
+                    "label": "MEN, T3 for Youth & Academy"
+                }
+            ]
+        },
+        "Tier 4": {
+            "description": "Sources with indirect reporting or lower reliability.",
+            "sources": [
+                {
+                    "name": "BildSport",
+                    "label": "Germany"
+                },
+                {
+                    "name": "Tuttomercatoweb",
+                    "label": "Italy"
+                },
+                {
+                    "name": "Guillem Balague",
+                    "label": "Sky Sports/Freelance"
+                },
+                {
+                    "name": "Sport",
+                    "label": "Spain"
+                },
+                {
+                    "name": "Kaveh Solhekol/Dharmesh Sheth",
+                    "label": "Sky Sports"
+                },
+                {
+                    "name": "Marca",
+                    "label": "Spain/Real Madrid"
+                },
+                {
+                    "name": "L'Equipe",
+                    "label": "France"
+                },
+                {
+                    "name": "A Bola",
+                    "label": "Portugal"
+                },
+                {
+                    "name": "Record",
+                    "label": "Portugal"
+                },
+                {
+                    "name": "Correio de Manha",
+                    "label": "Portugal"
+                },
+                {
+                    "name": "CalcioMercato",
+                    "label": "Italy"
+                }
+            ]
+        },
+        "Tier 5": {
+            "description": "Known aggregators or sources with very poor reliability.",
+            "sources": [
+                {
+                    "name": "Samuel Luckhurst",
+                    "label": "MEN"
+                },
+                {
+                    "name": "Alex Crook",
+                    "label": "Talk Sports"
+                },
+                {
+                    "name": "Peter O'Rouke",
+                    "label": "Freelance"
+                },
+                {
+                    "name": "Tancredi Palmieri",
+                    "label": "Freelance"
+                },
+                {
+                    "name": "Christian Falk",
+                    "label": "BILD"
+                },
+                {
+                    "name": "Daily Mail",
+                    "label": "banned unless reporter on tier-list"
+                },
+                {
+                    "name": "Metro",
+                    "label": "banned - utter shit"
+                },
+                {
+                    "name": "Express",
+                    "label": "banned - redditwide ban due to vote manipulation"
+                },
+                {
+                    "name": "The Sun",
+                    "label": "Banned - for being the Sun"
+                },
+                {
+                    "name": "Diario Gol",
+                    "label": "Spain"
+                },
+                {
+                    "name": "Daily Star",
+                    "label": "Go there for tits, not news"
+                }
+            ]
+        },
+        "Tier of Shame": {
+            "description": "Sources with almost no credibility or known for significant errors.",
+            "sources": [
+                {
+                    "name": "IndyKaila",
+                    "label": "This guy is worse than an unknown entity"
+                },
+                {
+                    "name": "Sky DE",
+                    "label": "falling for a fake Fabrizio Romano tweet"
+                },
+                {
+                    "name": "Simon Mullock",
+                    "label": "falling for a parody site article"
+                }
+            ]
+        }
+    }
+}
