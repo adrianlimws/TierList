@@ -1,5 +1,7 @@
 <script setup lang="ts">
 import logo from '../assets/tierlist.svg'
+import { useSearch } from '../composables/useSearch'
+const { searchQuery } = useSearch()
 </script>
 
 <template>
@@ -16,6 +18,16 @@ import logo from '../assets/tierlist.svg'
                     />
                     Tier List
                 </h1>
+                <div class="flex-1 max-w-lg mx-4">
+                    <div class="relative">
+                        <input
+                            type="text"
+                            v-model="searchQuery"
+                            placeholder="Search sources..."
+                            class="w-full px-4 py-2 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+                        />
+                    </div>
+                </div>
                 <p class="text-sm text-gray-400">
                     Modified from Original Source:
                     <a
