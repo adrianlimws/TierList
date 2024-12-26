@@ -5,7 +5,7 @@ const { searchQuery } = useSearch()
 </script>
 
 <template>
-    <nav class="bg-white shadow">
+    <nav class="bg-white shadow fixed top-0 w-full z-10">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="flex h-16 items-center justify-between">
                 <h1
@@ -14,9 +14,9 @@ const { searchQuery } = useSearch()
                     <img
                         :src="logo"
                         alt="Logo"
-                        class="h-8 w-8 object-contain mr-3"
+                        class="h-8 w-8 object-contain md:mr-2"
                     />
-                    Tier List
+                    <span class="max-sm:hidden"> Tier List </span>
                 </h1>
                 <div class="flex-1 max-w-lg mx-4">
                     <div class="relative">
@@ -28,7 +28,7 @@ const { searchQuery } = useSearch()
                         />
                     </div>
                 </div>
-                <p class="text-sm text-gray-400">
+                <p class="text-sm text-gray-400 max-sm:hidden">
                     Modified from Original Source:
                     <a
                         class="underline hover:text-red-500"
