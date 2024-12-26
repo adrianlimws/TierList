@@ -11,17 +11,13 @@ interface Tier {
     sources: Source[]
 }
 
-interface TierListData {
-    tiers: {
-        [key: string]: Tier
-    }
-}
+const data: { tiers: Record<string, Tier> } = tierListData
 </script>
 
 <template>
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <div
-            v-for="(tier, tierName) in tierListData.tiers"
+            v-for="(tier, tierName) in data.tiers"
             :key="tierName"
             class="mb-8"
         >
