@@ -6,14 +6,16 @@ import logo from '../assets/tierlist.svg'
     <nav class="bg-white shadow">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="flex h-16 items-center justify-between">
-                <div class="h-8 w-8">
+                <h1
+                    class="text-xl font-bold text-gray-900 flex items-center uppercase"
+                >
                     <img
                         :src="logo"
                         alt="Logo"
-                        class="h-full w-full object-contain"
+                        class="h-8 w-8 object-contain mr-3"
                     />
-                </div>
-                <h1 class="text-xl font-bold text-gray-900">Tier List</h1>
+                    Tier List
+                </h1>
                 <p class="text-sm text-gray-400">
                     Modified from Original Source:
                     <a
