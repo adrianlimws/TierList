@@ -24,7 +24,7 @@ const data: { tiers: Record<string, Tier> } = tierListData
             <div
                 class="border-b border-gray-200 bg-white px-4 py-5 sm:px-6 rounded-t-lg"
             >
-                <h3 class="text-lg font-semibold text-gray-900">
+                <h3 class="text-lg font-bold text-gray-900">
                     {{ tierName }}
                 </h3>
                 <p class="mt-1 text-sm text-gray-500">{{ tier.description }}</p>
@@ -38,7 +38,7 @@ const data: { tiers: Record<string, Tier> } = tierListData
                         class="px-4 py-4 sm:px-6 hover:bg-gray-50 transition-colors"
                     >
                         <div class="flex items-center justify-between">
-                            <div class="text-sm font-medium text-gray-900">
+                            <div class="font-faustina text-gray-900">
                                 {{ source.name }}
                             </div>
                             <div
